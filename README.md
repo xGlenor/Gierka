@@ -1,0 +1,2 @@
+# Gierka
+Programowanie II
